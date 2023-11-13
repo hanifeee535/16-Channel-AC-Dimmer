@@ -1,0 +1,304 @@
+Removed Pin From Net: NetName=NetC18_2 Pin=R18-2
+Removed Pin From Net: NetName=NetC19_2 Pin=R21-2
+Removed Pin From Net: NetName=NetC18_1 Pin=R25-2
+Removed Pin From Net: NetName=NetC19_1 Pin=R26-2
+Removed Pin From Net: NetName=NetC20_2 Pin=R29-2
+Removed Pin From Net: NetName=NetC21_2 Pin=R32-2
+Removed Pin From Net: NetName=NetC20_1 Pin=R33-2
+Removed Pin From Net: NetName=NetC21_1 Pin=R34-2
+Removed Pin From Net: NetName=NetC22_2 Pin=R37-2
+Removed Pin From Net: NetName=NetC23_2 Pin=R40-2
+Removed Pin From Net: NetName=NetC24_2 Pin=R43-2
+Removed Pin From Net: NetName=NetC22_1 Pin=R44-2
+Removed Pin From Net: NetName=NetC23_1 Pin=R45-2
+Removed Pin From Net: NetName=NetC24_1 Pin=R46-2
+Removed Pin From Net: NetName=NetC25_2 Pin=R49-2
+Removed Pin From Net: NetName=NetC26_2 Pin=R53-2
+Removed Pin From Net: NetName=NetC27_2 Pin=R55-2
+Removed Pin From Net: NetName=NetC25_1 Pin=R56-2
+Removed Pin From Net: NetName=NetC26_1 Pin=R57-2
+Removed Pin From Net: NetName=NetC27_1 Pin=R58-2
+Removed Pin From Net: NetName=NetC28_2 Pin=R63-2
+Removed Pin From Net: NetName=NetC29_2 Pin=R65-2
+Removed Pin From Net: NetName=NetC30_2 Pin=R67-2
+Removed Pin From Net: NetName=NetC28_1 Pin=R68-2
+Removed Pin From Net: NetName=NetC29_1 Pin=R69-2
+Removed Pin From Net: NetName=NetC30_1 Pin=R70-2
+Removed Pin From Net: NetName=NetC31_2 Pin=R73-2
+Removed Pin From Net: NetName=NetC32_2 Pin=R76-2
+Removed Pin From Net: NetName=NetC33_2 Pin=R79-2
+Removed Pin From Net: NetName=NetC31_1 Pin=R80-2
+Removed Pin From Net: NetName=NetC32_1 Pin=R81-2
+Removed Pin From Net: NetName=NetC33_1 Pin=R82-2
+Removed Member From Class: ClassName=Sheet2 Member=R55
+Removed Member From Class: ClassName=Sheet2 Member=R56
+Removed Member From Class: ClassName=Sheet2 Member=R57
+Removed Member From Class: ClassName=Sheet2 Member=R58
+Removed Member From Class: ClassName=Sheet2 Member=R63
+Removed Member From Class: ClassName=Sheet2 Member=R65
+Removed Member From Class: ClassName=Sheet2 Member=R67
+Removed Member From Class: ClassName=Sheet2 Member=R68
+Removed Member From Class: ClassName=Sheet2 Member=R69
+Removed Member From Class: ClassName=Sheet2 Member=R70
+Removed Member From Class: ClassName=Sheet2 Member=R73
+Removed Member From Class: ClassName=Sheet2 Member=R76
+Removed Member From Class: ClassName=Sheet2 Member=R79
+Removed Member From Class: ClassName=Sheet2 Member=R80
+Removed Member From Class: ClassName=Sheet2 Member=R81
+Removed Member From Class: ClassName=Sheet2 Member=R82
+Change Component Comment : Designator=R18 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R29 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R32 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R40 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R43 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R49 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R53 Old Comment=1K New Comment=1k 1W
+Change Component Comment : Designator=R25 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R26 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R33 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R34 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R44 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R45 Old Comment=560 ohm New Comment=1k 1W
+Change Component Comment : Designator=R46 Old Comment=560 ohm New Comment=1k 1W
+Change component parameters: Designator = "R18" ("R18"); Footprint = "R_0805"; UniqueID = "\CQBCLVMS" ("\CQBCLVMS")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "R_0805"; UniqueID = "\TQUNEBJF" ("\TQUNEBJF")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "R_0805"; UniqueID = "\EJCNQTHB" ("\EJCNQTHB")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "R_0805"; UniqueID = "\KTNOHMDE" ("\KTNOHMDE")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "R_0805"; UniqueID = "\ESJMWCFP" ("\ESJMWCFP")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "R_0805"; UniqueID = "\DHAXDNET" ("\DHAXDNET")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "R_0805"; UniqueID = "\MWLWLLEF" ("\MWLWLLEF")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "R_0805"; UniqueID = "\KNXUDUQX" ("\KNXUDUQX")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "R_0805"; UniqueID = "\BHXNKBEC" ("\BHXNKBEC")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R40" ("R40"); Footprint = "R_0805"; UniqueID = "\FOHKSHUI" ("\FOHKSHUI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "R_0805"; UniqueID = "\MRZJCBII" ("\MRZJCBII")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R44" ("R44"); Footprint = "R_0805"; UniqueID = "\OSOUXDJI" ("\OSOUXDJI")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R45" ("R45"); Footprint = "R_0805"; UniqueID = "\WGQJXXBH" ("\WGQJXXBH")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "R_0805"; UniqueID = "\YOBAMFZS" ("\YOBAMFZS")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R49" ("R49"); Footprint = "R_0805"; UniqueID = "\HROSMVVS" ("\HROSMVVS")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "R_0805"; UniqueID = "\VYPMFPPQ" ("\VYPMFPPQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA73F2A1K0BTD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.46000, 10=1.29300, 100=0.93830, 1000=0.55466, 2500=0.54215 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "7849"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1712-RA73F2A1K0BTDCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_2 Pin=R18-1
+Added Pin To Net: NetName=NetC19_2 Pin=R21-1
+Added Pin To Net: NetName=NetC20_2 Pin=R25-1
+Added Pin To Net: NetName=NetC21_2 Pin=R26-1
+Added Pin To Net: NetName=NetC22_2 Pin=R29-1
+Added Pin To Net: NetName=NetC23_2 Pin=R32-1
+Added Pin To Net: NetName=NetC24_2 Pin=R33-1
+Added Pin To Net: NetName=NetC25_2 Pin=R34-1
+Added Pin To Net: NetName=NetC26_2 Pin=R37-1
+Added Pin To Net: NetName=NetC27_2 Pin=R40-1
+Added Pin To Net: NetName=NetC28_2 Pin=R43-1
+Added Pin To Net: NetName=NetC29_2 Pin=R44-1
+Added Pin To Net: NetName=NetC30_2 Pin=R45-1
+Added Pin To Net: NetName=NetC31_2 Pin=R46-1
+Added Pin To Net: NetName=NetC32_2 Pin=R49-1
+Added Pin To Net: NetName=NetC33_2 Pin=R53-1
+Added Pin To Net: NetName=NetC18_1 Pin=U5-4
+Added Pin To Net: NetName=NetC19_1 Pin=U6-4
+Added Pin To Net: NetName=NetC18_1 Pin=U7-3
+Added Pin To Net: NetName=NetC19_1 Pin=U8-3
+Added Pin To Net: NetName=NetC20_1 Pin=U10-4
+Added Pin To Net: NetName=NetC21_1 Pin=U11-4
+Added Pin To Net: NetName=NetC20_1 Pin=U12-3
+Added Pin To Net: NetName=NetC21_1 Pin=U13-3
+Added Pin To Net: NetName=NetC22_1 Pin=U14-4
+Added Pin To Net: NetName=NetC22_1 Pin=U15-3
+Added Pin To Net: NetName=NetC23_1 Pin=U16-4
+Added Pin To Net: NetName=NetC23_1 Pin=U17-3
+Added Pin To Net: NetName=NetC24_1 Pin=U18-4
+Added Pin To Net: NetName=NetC24_1 Pin=U19-3
+Added Pin To Net: NetName=NetC25_1 Pin=U20-4
+Added Pin To Net: NetName=NetC26_1 Pin=U21-4
+Added Pin To Net: NetName=NetC27_1 Pin=U22-4
+Added Pin To Net: NetName=NetC25_1 Pin=U23-3
+Added Pin To Net: NetName=NetC26_1 Pin=U24-3
+Added Pin To Net: NetName=NetC27_1 Pin=U25-3
+Added Pin To Net: NetName=NetC28_1 Pin=U26-4
+Added Pin To Net: NetName=NetC29_1 Pin=U27-4
+Added Pin To Net: NetName=NetC30_1 Pin=U28-4
+Added Pin To Net: NetName=NetC28_1 Pin=U29-3
+Added Pin To Net: NetName=NetC29_1 Pin=U30-3
+Added Pin To Net: NetName=NetC30_1 Pin=U31-3
+Added Pin To Net: NetName=NetC31_1 Pin=U32-4
+Added Pin To Net: NetName=NetC31_1 Pin=U33-3
+Added Pin To Net: NetName=NetC32_1 Pin=U34-4
+Added Pin To Net: NetName=NetC33_1 Pin=U35-4
+Added Pin To Net: NetName=NetC32_1 Pin=U36-3
+Added Pin To Net: NetName=NetC33_1 Pin=U37-3
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U5-6
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U6-6
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U10-6
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U11-6
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=U14-6
+Added Net: Name=NetR29_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=U16-6
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=U18-6
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U20-6
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=U21-6
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U22-6
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=U26-6
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR44_2 Pin=R44-2
+Added Pin To Net: NetName=NetR44_2 Pin=U27-6
+Added Net: Name=NetR44_2
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR45_2 Pin=U28-6
+Added Net: Name=NetR45_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U32-6
+Added Net: Name=NetR46_2
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=U34-6
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR53_2 Pin=U35-6
+Added Net: Name=NetR53_2
